@@ -2,14 +2,15 @@
 
 Proceso mediante el cual un sistema gestor de bases de datos interpreta, transforma y ejecuta una consulta SQL para obtener el resultado solicitado.
 
-Flujo general:
+## Flujo general:
 
 SQL Query → Parsing → Optimization → Execution → Results
 
-EJEMPLO:
+## EJEMPLO:
+
 Tú escribes:
 
-SELECT * FROM alumnos WHERE edad > 18;
+#### SELECT * FROM alumnos WHERE edad > 18;
 
 PostgreSQL internamente hace algo parecido a:
 
