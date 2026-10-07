@@ -46,9 +46,9 @@ Antes de recorrer las etapas del Query Processing, es necesario crear la estruct
 
 | Archivo | Descripción |
 |----------|----------|
-| [schema.sql](./schema.sql) | Define la estructura de las tablas |
-| [data.sql](./data.sql) | Inserta datos de prueba |
-| [examples.sql](./examples.sql) | Contiene las consultas utilizadas en los ejemplos |
+| [schema.sql](./sql/schema.sql) | Define la estructura de las tablas |
+| [data.sql](./sql/data.sql) | Inserta datos de prueba |
+| [examples.sql](./sql/examples.sql) | Contiene las consultas utilizadas en los ejemplos |
 
 ### Datos de nuestra tabla
 

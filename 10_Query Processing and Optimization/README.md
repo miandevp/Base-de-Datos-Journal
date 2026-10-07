@@ -7,5 +7,5 @@ Ruta de aprendizaje sobre cómo PostgreSQL procesa una consulta SQL desde que es
 
 ### Capítulo 1: Query Processing
 Entender el proceso de una consulta
-- [Query Processing](./Query%20Processing/README.md)
+- [Query Processing](./01_Query_Processing/README.md)
 
